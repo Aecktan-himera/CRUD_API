@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e1d7d44f-c5c2-4fd2-80bd-af7a3465d5fa",
+    "name": "New Product",
+    "price": 29.99,
+    "quantity": 10,
+    "category": "electronics"
+  },
+  {
+    "id": "adedcae4-1b12-471d-92b9-46c11666fd63",
+    "name": "Notebook",
+    "price": 100,
+    "quantity": 100,
+    "category": "electronics"
+  }
+]
